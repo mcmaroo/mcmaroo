@@ -1,4 +1,6 @@
-<h1 align="center">I am Marwan AKA Maro</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=1200&pause=9999999&color=00E6E6&center=true&vCenter=true&width=500&lines=You+can+call+me+Maro" alt="Typing SVG" />
+</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&duration=3000&lines=+Web+Developer;+Machine+Learning+Engineer;+Game+Developer;+App+Developer;+Data+Analyst;STEAMer" alt="Typing SVG" />
 </div>
