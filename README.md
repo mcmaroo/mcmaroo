@@ -1,6 +1,6 @@
 <h1 align="center">I am Marwan AKA Maro</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008B8B&center=true&vCenter=true&width=500&weight=700&lines=A+Full-Stack+Web+Developer;Machine+Learning+Engineer;Game+Developer;App+Developer;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&duration=3000&lines=+Web+Developer;+Machine+Learning+Engineer;+Game+Developer;+App+Developer;+Data+Analyst;STEAMer" alt="Typing SVG" />
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mcmaroo&color=00008B&style=flat-square&label=Profile+Views" alt="Profile views" />
