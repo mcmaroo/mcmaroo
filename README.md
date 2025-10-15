@@ -1,4 +1,4 @@
-<h1 align="center">I am Marwan Ahmed AKA MC_Maro</h1>
+<h1 align="center">I am Marwan AKA MC_Maro</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=008B8B&center=true&vCenter=true&width=500&weight=700&lines=A+Full-Stack+Web+Developer;Machine+Learning+Engineer;Game+Developer;App+Developer;Data+Analyst" alt="Typing SVG" />
 </div>
